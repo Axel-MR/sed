@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import ImageTextBox from '../components/ImageTextBox';
+import ImageTextBox from '../../components/ImageTextBox';
 import Head from 'next/head';
 import Header from '@/components/Header';
 
